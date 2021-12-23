@@ -1,3 +1,9 @@
+"""
+Creating trajectory in 2D and 3D views from GNSS log files
+Developed by: Cem Avci, email: cemavci97@hotmail.com
+20.12.2021
+
+"""
 import sys,os
 import pandas as pd 
 import matplotlib
